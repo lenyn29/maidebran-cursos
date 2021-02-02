@@ -64,10 +64,6 @@ section .container a {
     font-weight: 700;
     letter-spacing: 2px;
 }
-.container img {
-    width: 80px;
-    height: 80px;
-}
 
 section .container a:hover {
     color: rgb(36, 219, 36);
